@@ -1,0 +1,27 @@
+#body {
+    background-image: url(https://images4.alphacoders.com/653/thumb-1920-653613.jpg);
+    background-attachment:fixed;       
+    background-size:cover;
+	
+   
+}
+#opa{
+	padding-top: 50px;
+	background-color: black;
+	width: 100%;
+	height: 1000px;
+    opacity: .5;
+    align-items: center;
+	
+    
+  
+}
+.discripton{
+    font-size: 40px;
+    margin-left: 120px;
+}
+
+.discripton2{
+    font-size: 40px;
+    margin-left: 120px;
+}
